@@ -1,0 +1,138 @@
+.body{
+    overflow-x: hidden;
+}
+
+#test {
+    height: 17vh;
+    /* width: 50%; */
+    /* background-color: powderblue */
+}
+
+#txt1{
+    text-align: center;
+    color: #391e0c;
+}
+
+#me{
+    width: 100%;
+    height: 100%;
+    /* background-color: red; */
+    background-image: url(./img/brunches\ logo\ 2\ \(trans\).png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 5vh;
+    background-position: center;
+
+}
+
+#brownBox{
+    height:90vh;
+    width:50%;
+    border: 3px solid #d2843b;
+    margin: auto;
+    padding:1%
+}
+
+#tb1{
+    background-color: #391e0c;
+    width:60%;
+    color: white;
+    text-align: center;
+}
+
+#tb2{
+    background-color: #391e0c;
+    height:70%;
+    width:60%;
+    color: white;
+    text-align: center;
+}
+
+#riceImg{
+    width: 60%;
+    height: 150%;
+    background-image: url('./img/rice.JPG');
+    background-size: cover;
+    background-position: center;
+}
+
+#burgerImg{
+    width: 60%;
+    height: 150%;
+    background-image: url('./img/rice.JPG');
+    background-size: cover;
+    background-position: center;
+}
+
+#price1{
+    width:60%;
+    text-align: center;
+    color: white;
+    background-color: #d2843b;
+}
+
+#thumb1{
+    border: 3px solid #d2843b;
+    height:100%
+}
+
+#bbsm{
+    border: 3px solid #d2843b;
+    width:100%
+}
+
+#card{
+    width:100%;
+    height:15rem;
+    background-image: url('./img/rice.JPG');
+    background-size: cover;
+    background-position: center;
+    border: 3px solid #d2843b;
+}
+#card2{
+    width:100%;
+    height:15rem;
+    background-image: url('./img/burger.jpg');
+    background-size: cover;
+    background-position: center;
+    border: 3px solid #d2843b;
+}
+#card3{
+    width:100%;
+    height:15rem;
+    background-image: url('./img/shawarma.jpg');
+    background-size: cover;
+    background-position: center;
+    border: 3px solid #d2843b;
+}
+
+#card4{
+    width:100%;
+    height:15rem;
+    background-image: url('./img/pastaAndWings.png');
+    background-size: cover;
+    background-position: center;
+    border: 3px solid #d2843b;
+}
+#card5{
+    width:100%;
+    height:15rem;
+    background-image: url('./img/fishAndChips2.JPG');
+    background-size: cover;
+    background-position: center;
+    border: 3px solid #d2843b;
+}
+
+#cardHead{
+    background-color: #391e0c;
+    color:white;
+}
+
+#cardFoot{
+    background-color: #d2843b;
+    color:white;
+}
+
+#lineThrough{
+    text-decoration: line-through;
+}
