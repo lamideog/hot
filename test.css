@@ -1,9 +1,15 @@
 html{
     overflow-x: hidden;
 }
+
 body{
     background-image: url('./img/1.jpg');
     overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
 }
 
 #me{
@@ -34,10 +40,11 @@ body{
 #itemContainer{
     /* background: blue; */
     max-width: 80vw;
-    height: 60vh;
+    height: 65vh;
     border-radius: 10px;
-    /* background-color: #d2843b; */
     backdrop-filter: blur(50px);
+    padding-top: 1%;
+    /* background-color: #d2843b; */
     /* padding: 1%; */
 }
 
